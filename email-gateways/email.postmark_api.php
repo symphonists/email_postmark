@@ -3,7 +3,7 @@
 	require_once(TOOLKIT . '/class.emailgateway.php');
 	require_once(TOOLKIT . '/class.emailhelper.php');
 
-	Class PostmarkGateway extends EmailGateway{
+	Class Postmark_APIGateway extends EmailGateway{
 
 		protected $_api_key;
 
