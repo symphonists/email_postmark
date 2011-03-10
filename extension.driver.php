@@ -32,7 +32,7 @@
 			 * but removing upon uninstallation must be handled here;
 			 */
 			Symphony::Configuration()->remove('email_postmark');
-			$this->_Parent->saveConfig();
+			Administration::instance()->saveConfig();
 			return TRUE;
 		}
 
