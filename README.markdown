@@ -1,9 +1,9 @@
 # Postmark Email Gateway
 
-- Version: 1.0
-- Date: 2011-12-18
-- Requirements: Symphony 2.2 or later
-- Authors: Alistair Kearney, Michael Eichelsdörfer
+- Version: 1.1
+- Date: 2014-05-19
+- Requirements: Symphony 2.4 or later
+- Authors: Alistair Kearney, Michael Eichelsdörfer, John Porter
 - Maintainer: Symphony Community, <https://github.com/symphonists>
 
 ## Summary
